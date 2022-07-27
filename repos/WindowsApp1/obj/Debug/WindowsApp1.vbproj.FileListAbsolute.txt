@@ -1,0 +1,17 @@
+C:\Users\LANDA\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\LANDA\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\LANDA\source\repos\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\LANDA\source\repos\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\LANDA\source\repos\WindowsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\LANDA\source\repos\WindowsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\LANDA\source\repos\WindowsApp1\bin\Debug\ClassLibrary1.xml
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\LANDA\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
